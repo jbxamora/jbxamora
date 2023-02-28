@@ -22,8 +22,8 @@
 
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=jbxamora&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0 -->
 <p align="center">
-    <a href="https://github.com/Sauravionic/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sauravionic&theme=vue-dark&hide_border=true&stroke=DDDBD8&background=03030397&dates=D5DDD4"/>
+    <a href="https://github.com/jbxamora/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JB's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jbxamora&theme=vue-dark&hide_border=true&stroke=DDDBD8&background=03030397&dates=D5DDD4"/>
     </a>
 </p>
 
