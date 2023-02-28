@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AI - WebDeV
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2022 Goals: Learn more about AI/ML
-- ⚡ Fun fact: I am an avid gamer and a compulsive gambler 🎲
+- ⚡ Fun fact: I lost access to my old repo..
 
 ### Stats
 <details>
