@@ -51,11 +51,11 @@
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />
 <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
 <img align="left" alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px;" />
-<img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />      <br>
+<img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />      
 
+<br>
 
-  
-  ### Education
+### Education
 <details name="EDUCATION">
   - Harvard EdX CS50x✅
   - Harvard EdX CS50AI✅
