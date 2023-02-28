@@ -9,6 +9,13 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I am an avid gamer and a compulsive gambler 🎲
 
+### Education📓
+<details>
+  - Harvard EdX CS50x✅
+  - Harvard EdX CS50AI✅
+  - UC BERKELEY EdX Full Stack Flex⏳
+ <\details>
+
 ### Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
