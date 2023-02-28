@@ -54,8 +54,9 @@
 <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />      
 
 <br>
+<br>
 
-### Education
+**EDUCATION**
 <details name="EDUCATION">
   - Harvard EdX CS50x✅
   - Harvard EdX CS50AI✅
