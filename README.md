@@ -72,7 +72,7 @@
 
 **EDUCATION**
 <details>
-  - Harvard EdX CS50x✅
-  - Harvard EdX CS50AI✅
-  - UC BERKELEY EdX Full Stack Flex⏳
+ ⦿ Harvard EdX CS50x✅
+ ⦿ Harvard EdX CS50AI✅
+ ⦿ UC BERKELEY EdX Full Stack Flex⏳
 <details\>
