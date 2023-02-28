@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jbxamora?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jbxamora)
 
-## I'm a web developer with cyber security skills!
+## I'm becoming a web-developer with a backround in AI👀
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning AI - WebDeV
 - 👯 I’m looking to collaborate on open source projects
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about AI/ML
 - ⚡ Fun fact: I am an avid gamer and a compulsive gambler 🎲
 
 ### Stats
