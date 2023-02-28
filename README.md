@@ -17,7 +17,7 @@
 <img align="left" alt="JB's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxamora&langs_count=8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
-
+---
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/jbxamora#gh-light-mode-only)
@@ -27,7 +27,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jbxamora#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/jbxamora#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jbxamora#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/jbxamora#gh-dark-mode-only). 
 ---
 ### Languages and Tools:
 
@@ -48,13 +48,12 @@
 <img align="left" alt="jQuery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="padding:10px;" />
 <img align="left" alt="Sequelize" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding:10px;" />
 <img align="left" alt="Heroku" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding:10px;" />
-<img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />
+<img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />. 
      
 
-<br>
-<br>
+   
 
-**EDUCATION**
+**EDUCATION**. 
 <details name="EDUCATION">
   - Harvard EdX CS50x✅
   - Harvard EdX CS50AI✅
