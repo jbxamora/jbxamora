@@ -48,10 +48,13 @@
 <img align="left" alt="jQuery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="padding:10px;" />
 <img align="left" alt="Sequelize" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding:10px;" />
 <img align="left" alt="Heroku" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding:10px;" />
-<img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />    
+<img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />   
+
+<br>
+<br>
 
 **EDUCATION**
-<details name="EDUCATION">
+<details>
   - Harvard EdX CS50x✅
   - Harvard EdX CS50AI✅
   - UC BERKELEY EdX Full Stack Flex⏳
