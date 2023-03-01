@@ -60,7 +60,6 @@
 <img align="left" alt="Deno" width="25px" src="./img/deno-light.svg" style="padding:10px;" />
 <img align="left" alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px;" />
 <img align="left" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px;" />
-<img align="left" alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:10px;" />
 <img align="left" alt="Jest" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding:10px;" />
 <img align="left" alt="jQuery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="padding:10px;" />
 <img align="left" alt="Sequelize" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding:10px;" />
