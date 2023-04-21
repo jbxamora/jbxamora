@@ -1,6 +1,6 @@
 # Hi there, I'm Jorge Zamora 👋
 
-## I'm a web-developer with a backround in AI
+## A web-developer with a backround in Business and AI
 
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on open source projects
@@ -34,10 +34,6 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/jbxamora#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/jbxamora#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jbxamora#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jbxamora#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -71,5 +67,5 @@
 <details>
  ⦿ Harvard EdX CS50x✅
  ⦿ Harvard EdX CS50AI✅
- ⦿ UC BERKELEY EdX Full Stack Flex⏳
+ ⦿ UC BERKELEY EdX Full Stack Flex✅
 <details\>
