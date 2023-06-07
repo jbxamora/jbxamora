@@ -2,7 +2,7 @@
 
 ## A web-developer with a backround in Business and AI
 
-- 🌱 I’m currently learning PyTorch
+- 🌱 I’m currently learning PyTorch // Next13
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2023 Goals: Learn more about AI/ML
 - ⚡ Fun fact: I am a SSBU local champion🔥
