@@ -4,21 +4,9 @@
 
 - 🌱 I’m currently learning PyTorch // Next13
 - 👯 I’m looking to collaborate on open source projects
-- 🥅 2023 Goals: Learn more about AI/ML
+- 🥅 2023 Goals: Conquer NEXT13
 - ⚡ Fun fact: I am a SSBU local champion🔥
 - 📍 Currently in: California🌴
-
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbxamora&theme=vue-dark)](https://git.io/streak-stats) -->
-
-
-<!-- <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbxamora&theme=vue-dark&hide_border=true&stroke=DDDBD8&background=03030397&dates=D5DDD4)](https://git.io/streak-stats)
-
-</p> -->
-
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=jbxamora&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0 -->
-
 
 ### Stats
 <details>
@@ -26,7 +14,7 @@
 <img align="left" alt="JB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jbxamora&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
     <p align="left">
     <a href="https://github.com/jbxamora/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JB's streak" src="https://streak-stats.demolab.com?user=jbxamora&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=EB0303&dates=16C1EB&stroke=EB7E11"/>
+        <img alt="JB's streak" src="https://streak-stats.demolab.com?user=jbxamora&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=EB0303&dates=16C1EB&stroke=EB7E11"/>
     </a>
 </p>
 <img align="left" alt="JB's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxamora&langs_count=5&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
