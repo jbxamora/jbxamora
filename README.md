@@ -1,32 +1,12 @@
-# Hi there, I'm Jorge Zamora 👋
+# Jorge Zamora
 
-## A web-developer with a backround in Business and AI
+## A web-developer with a backround in Business and passion for AI
 
-- 🌱 I’m currently learning PyTorch // Next13
-- 👯 I’m looking to collaborate on open source projects
-- 🥅 2023 Goals: Conquer NEXT13
-- ⚡ Fun fact: I am a SSBU local champion🔥
-- 📍 Currently in: California🌴
+I build websites for small business and professionals.
 
-### Stats
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="JB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jbxamora&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-    <p align="left">
-    <a href="https://github.com/jbxamora/github-readme-streak-stats">
-        <img alt="JB's streak" src="https://streak-stats.demolab.com?user=jbxamora&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=EB0303&dates=16C1EB&stroke=EB7E11"/>
-    </a>
-</p>
 <img align="left" alt="JB's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxamora&langs_count=5&show_icons=true&hide_border=false&hide=css,handlebars&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
----
-### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jbxamora#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jbxamora#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/jbxamora#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jbxamora#gh-dark-mode-only). 
 ---
 ### Languages and Tools:
 
@@ -51,9 +31,3 @@
 <br>
 <br>
 
-**EDUCATION**
-<details>
- ⦿ Harvard EdX CS50x✅
- ⦿ Harvard EdX CS50AI✅
- ⦿ UC BERKELEY EdX Full Stack Flex✅
-<details\>
