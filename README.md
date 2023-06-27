@@ -1,6 +1,6 @@
 <h1 align="center">Jorge Zamora</h1>
 <p align="center">
-I'm a versatile Web Developer who pairs a background in Business with a keen interest in AI. I specialize in crafting landing pages for websites and portfolios for creative artists, melding aesthetics with functionality to create unique digital experiences.
+I'm a versatile Web Developer who pairs a background in Business with a keen interest in AI. I specialize in crafting landing pages for small businesses and portfolios for creative artists, melding aesthetics with functionality to create unique digital experiences.
 </p>
 <h2 align="center">Favorite Tools</h1>
 
